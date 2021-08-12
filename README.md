@@ -1,7 +1,8 @@
 - Hello, I’m @Alynn17
-- I’m interested in biomechanics, robotics, space
-- I’m currently learning Mechanical Engineering
-- I’m looking to expand my knowledge in programing languages i.e python, C++
+- My interests consist of biomechanics, robotics, space
+- I am currently learning Mechanical Engineering
+- Looking to expand my knowledge in programing languages i.e python, C++
+  --> I'm open to any guidance/advice!
 
 <!---
 Alynn17/Alynn17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
